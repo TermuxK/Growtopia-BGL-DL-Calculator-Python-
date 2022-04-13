@@ -13,7 +13,7 @@ This is a very simple Python code, so you can make your own by just checking the
 
 <font color="blue"><h1>Download Visual Studio ---------(Very Good App for Coding)</h1></font>
 
->* https://visualstudio.microsoft.com/tr/downloads/
+>* https://visualstudio.microsoft.com/en/downloads/
 
 <h1></h1>
 <h1></h1>
