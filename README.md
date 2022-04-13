@@ -11,7 +11,7 @@ This is a very simple Python code, so you can make your own by just checking the
 
 >* https://www.python.org/downloads/ 
 
-<font color="blue"><h1>Download Visual Studio ---------(Very Good App for Coding)</h1></font>
+<font color="blue"><h1>Download Visual Studio (Very Good App for Coding)</h1></font>
 
 >* https://visualstudio.microsoft.com/en/downloads/
 
